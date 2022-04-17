@@ -9,17 +9,5 @@
         "product_name": "Mouse",
         "price": 1000,
         "picture": "img/2.png"
-    },
-    {
-        "id": 3,
-        "title": "Keyboard",
-        "price": 200,
-        "picture": "img/3.png"
-    },
-    {
-        "id": 4,
-        "title": "Gamepad",
-        "price": 50,
-        "picture": "img/4.png"
     }
 ]
