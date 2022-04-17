@@ -1,13 +1,20 @@
-[{
-        "id": 1,
-        "title": "Notebook",
-        "price": 2000,
-        "picture": "img/1.png"
+{
+  "amount": 46600,
+  "countGoods": 2,
+  "contents": [
+    {
+      "id_product": 123,
+      "product_name": "Ноутбук",
+      "picture": "img/1.png"
+      "price": 45600,
+      "quantity": 1
     },
     {
-        "id": 3,
-        "title": "Keyboard",
-        "price": 200,
-        "picture": "img/3.png"
+      "id_product": 456,
+      "product_name": "Мышка",
+      "picture": "img/3.png"
+      "price": 1000,
+      "quantity": 1
     }
-]
+  ]
+}
