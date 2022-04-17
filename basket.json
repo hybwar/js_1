@@ -1,0 +1,13 @@
+[{
+        "id": 1,
+        "title": "Notebook",
+        "price": 2000,
+        "picture": "img/1.png"
+    },
+    {
+        "id": 3,
+        "title": "Keyboard",
+        "price": 200,
+        "picture": "img/3.png"
+    }
+]
