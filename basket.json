@@ -3,16 +3,14 @@
   "countGoods": 2,
   "contents": [
     {
-      "id_product": 123,
-      "product_name": "Ноутбук",
-      "picture": "img/1.png"
+      "id_product": 1,
+      "product_name": "Laptop",
       "price": 45600,
       "quantity": 1
     },
     {
-      "id_product": 456,
-      "product_name": "Мышка",
-      "picture": "img/3.png"
+      "id_product": 2,
+      "product_name": "Mouse",
       "price": 1000,
       "quantity": 1
     }
