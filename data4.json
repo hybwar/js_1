@@ -1,6 +1,6 @@
 [{
         "id_product": 1,
-        "product_name": "Notebook",
+        "product_name": "Laptop",
         "price": 45600,
         "picture": "img/1.png"
     },
